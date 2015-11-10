@@ -1,0 +1,38 @@
+th{
+	border: 1px solid rgba(0,0,0,.15);
+	padding: 5px;
+	background-color: black;
+	color: white;
+}
+td {
+	border: 1px solid rgba(0,0,0,.15);
+	padding: 5px;
+}
+a {
+	color: blue;
+	text-decoration: none;
+}
+a:hover {
+	color: black;
+}
+a.edit {
+	color: blue;
+	text-decoration: none;
+}
+a.edit:hover {
+	color: black;
+}
+a.delete {
+	color: red;
+	text-decoration: none;
+}
+a.delete:hover {
+	color: black;
+}
+a.create {
+	color: limegreen;
+	text-decoration: none;
+}
+a.create:hover {
+	color: black;
+}
